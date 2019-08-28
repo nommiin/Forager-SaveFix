@@ -11,4 +11,5 @@ A utility for clearing local Forager saves and disabling Steam Cloud programatic
 - Built using Visual Studio 2015 Professional
 
 ## Notes
-I know, the code is messy
+- This tool ***does not*** "fix" or "uncorrupt" save files
+- I know, the code is messy
