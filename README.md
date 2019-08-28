@@ -1,5 +1,5 @@
 # Forager-SaveFix
-A utility for clearing local Forager saves and disabling Steam Cloud programatically
+A utility for clearing local Forager saves and disabling Steam Cloud programatically if corrupted save files prevent starting a new game
 
 ## Usage
 1. Extract release version of utility
